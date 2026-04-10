@@ -1,6 +1,8 @@
-# raysearch-sdk-py
+# RaySearch Python Sdk
 
-Python SDK for the RaySearch personal API service.
+[![PyPI version](https://img.shields.io/pypi/v/raysdk-py.svg)](https://pypi.org/project/raysdk-py/)
+
+Python SDK for the [RaySearch](https://github.com/radiata-labs/raysearch) personal API service.
 
 The SDK provides:
 - top-level `RaySearch` and `AsyncRaySearch` clients
